@@ -1,24 +1,24 @@
 const info = {
     main: {
         name: "SHIVAGANAG M",
-        description: "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry ",
-        role: "JAVA DSA",
+        description: "I am a data analyst with expertise in machine learning. I have experience in extracting insights and building predictive models using various data analysis tools and machine learning frameworks. I thrive on tackling complex data challenges and continuously acquiring new skills. I am passionate about delivering high-quality, actionable insights that adhere to best practices and industry standards in data science",
+        role: "ASPIRING DATA ANALYST",
         photo: "../Dp.jpg",
         email: "shivagangamcm@gmail.com",
         tracking_id: "G-BNTTBGHXSC"
     },
     resume: {
-        link: "../gangaresume.pdf" // Replace with your actual resume URL
+        link: "../Pavan_Kumar_Bitra_Resume.pdf" // Replace with your actual resume URL
       },
     
 
     socials: {
         twitter: "https://x.com/srinivaspavan73",
-		github: "https://github.com/https://github.com/mcmshivaganga",
+		github: "https://github.com/https://github.com/Shivaganga.M",
 		linkedin: "https://www.linkedin.com/in/https://www.linkedin.com/in/shivaganga-m-75819526b",
 		instagram: "https://instagram.com/shivaganga.84",
 		facebook: "https://www.facebook.com/bitra.pavan.351",
-        telegram: "https://telegram.me/GangaM"
+        telegram: "https://telegram.me/Ganga M"
     },
     experience: [
         {
@@ -123,7 +123,7 @@ const info = {
             school: "KALPATARU INSTITUTE OF TECHNOLOGY",
             degree: "BE in COMPUTER SCIENCE & ENGINEERING",
             // year: "2023 - Present",
-            image: "tip.jpg"
+            image: "kitlogo.jpg"
         },
         // {
         //     school: "shree siddarameshwara polytechnic college ",
